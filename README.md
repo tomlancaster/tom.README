@@ -53,7 +53,7 @@ For feedback to work, it needs to be
 
 ## My Calendar
 
-Is often fairly open. Please feel free to throw an event on my calendar if you want to meet. If I'm not in office or you're not in office it's fine to meet on a Slack video call.
+Is often fairly open. Please feel free to throw an event on my calendar if you want to meet. If I'm not in office or you're not in office it's fine to meet on a Slack video call. You can always schedule a meeting using https://calendly.com/tom-lancaster
 
 
 ## Remote work / Working from Home
