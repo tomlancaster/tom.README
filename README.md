@@ -5,7 +5,9 @@ Tom's Manager README - how to work with me
 
 ## My Job
 
-As a manager I work for my direct reports, and not vice versa. I'm here to hire, retain, and develop the best people for YunoJuno, and if I'm ever behaving in a way that works against those goals please let me know right away.
+As a manager I like the [https://www.infoq.com/articles/host-leadership-agile](Host Leadership) model. It means I have duties and responsibilities towards my direct reports (the guests), and I also have some rights as host. 
+
+Above all, I'm here to hire, retain, and develop the best people for YunoJuno, and if I'm ever behaving in a way that works against those goals please let me know right away.
 
 ## Personal Principles
 
@@ -57,3 +59,5 @@ Is often fairly open. Please feel free to throw an event on my calendar if you w
 
 
 ## Remote work / Working from Home
+
+//TODO
