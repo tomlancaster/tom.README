@@ -40,6 +40,7 @@ One on one meetings are very important. I learned some of the principles of suce
 * I don't really want status updates, unless you really want to give them. I get that mostly from Jira or standup.
 * This can be an opportunity to tell me how you think the team could work better together, or highlight some area of conflict I might not be aware of.
 * I enjoy talking about the big picture, so if you do, too, this is a great forum for that kind of chat.
+* For local meetings I enjoy taking a walk, but let me know if this doesn't work for you; for remote meetings video calls are good.
 
 
 ## Feedback
@@ -52,12 +53,10 @@ For feedback to work, it needs to be
 * Easy (the recipient should make it easy to give feedback)
 * Beneficial (giving / receiving feedback should provide a benefit)
 
+## Work / Life Balance
 
+I don't think you can do your best work if there's no balance with your home life. If this means you need to work from home sometimes, go for it (please log it in CharlieHR so the team knows whether to expect you in person). If it means you need to be away for some time during the day for an appointment or obligation, go for it, as long as your team knows when you'll be back.
+ 
 ## My Calendar
 
 Is often fairly open. Please feel free to throw an event on my calendar if you want to meet. If I'm not in office or you're not in office it's fine to meet on a Slack video call. You can always schedule a meeting using https://calendly.com/tom-lancaster
-
-
-## Remote work / Working from Home
-
-//TODO
