@@ -7,7 +7,7 @@ Tom's Manager README - how to work with me
 
 As a manager I like the [Host Leadership](https://www.infoq.com/articles/host-leadership-agile) model. It means I have duties and responsibilities towards my direct reports (the guests), and I also have some rights as host. 
 
-Above all, I'm here to hire, retain, and develop the best people for YunoJuno, and if I'm ever behaving in a way that works against those goals please let me know right away.
+Above all, I'm here to hire, retain, and develop the best people, and if I'm ever behaving in a way that works against those goals please let me know right away.
 
 ## Personal Principles
 
