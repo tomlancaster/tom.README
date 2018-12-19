@@ -55,7 +55,7 @@ For feedback to work, it needs to be
 
 ## Work / Life Balance
 
-I don't think you can do your best work if there's no balance with your home life. If this means you need to work from home sometimes, go for it (please log it in CharlieHR so the team knows whether to expect you in person). If it means you need to be away for some time during the day for an appointment or obligation, go for it, as long as your team knows when you'll be back.
+I don't think you can do your best work if there's no balance with your home life. If this means you need to work from home sometimes, go for it. If it means you need to be away for some time during the day for an appointment or obligation, go for it, as long as your team knows when you'll be back.
  
 ## My Calendar
 
